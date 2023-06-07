@@ -8,4 +8,4 @@ These projects were completed for Practicum's Data Scientist professional traini
 
 | Nombre del proyecto | Descripción | Librerías usadas| 
 | :---------------------- | :---------------------- | :---------------------- |
-| Megaline: Smart o Ultra | Recomendar uno de los nuevos planes de Megaline: Smart o Ultra. | *pandas*, *sklearn.model_selection*, *sklearn.metrics*, *random*, *seaborn*, *matplotlib.pyplot*, *sklearn.tree*, *sklearn.ensemble*, *sklearn.linear_model*|
+| Megaline: Smart o Ultra | Desarrollo de un modelo que pueda analizar el comportamiento de los clientes y recomendar uno de los nuevos planes de Megaline: Smart o Ultra.. | *pandas*, *sklearn.model_selection*, *sklearn.metrics*, *random*, *seaborn*, *matplotlib.pyplot*, *sklearn.tree*, *sklearn.ensemble*, *sklearn.linear_model*|
